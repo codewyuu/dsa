@@ -40,7 +40,7 @@ int main(){
     }
     return 0;
 }
-//pat3
+//pat4
 #include<iostream>
 using namespace std;
 int main(){
@@ -53,7 +53,7 @@ int main(){
     }
     return 0;
 }
-//pat4
+//pat5
 #include<iostream>
 using namespace std;
 int main(){
@@ -69,7 +69,7 @@ int main(){
     }
     return 0;
 }
-//pat5
+//pat6
 #include<iostream>
 using namespace std;
 int main(){
